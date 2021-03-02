@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="thrill logo" src="./assets/vueKill.jpg">
+    <Tongue msg="👅👅👅👅👅"/>
+    <HelloWorld msg="A Vue to a Thrill"/>
+    <Button />
+
   </div>
 </template>
 
@@ -24,5 +27,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  background: url(./assets/specklePaint.jpg);
+  background-size: contain;
+  background-repeat: repeat;
 }
 </style>
