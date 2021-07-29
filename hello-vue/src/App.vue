@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="thrill logo" src="./assets/vueKill.jpg">
-    <Tongue msg="👅👅👅👅👅"/>
+    <Tongue msg="👅👅👅"/>
     <HelloWorld msg="A Vue to a Thrill"/>
     <Button />
 
